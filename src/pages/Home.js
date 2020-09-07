@@ -20,7 +20,7 @@ class Home extends Component {
                                     <span class="icon-bar icon-third"></span>
                                   </button>
                                 <a class="navbar-brand" href="index.html">
-                                    <h3>Samad</h3>
+                                    <h3>Mash</h3>
                                 </a>
                             </div>
 
